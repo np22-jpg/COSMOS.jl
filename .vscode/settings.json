@@ -1,0 +1,8 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "/Users/nolanpoe/Library/Jupyter/kernels/julia-1.9/kernel.json",
+            "type": "jupyterKernelspec"
+        }
+    ]
+}
